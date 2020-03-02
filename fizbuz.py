@@ -65,6 +65,6 @@ def printRepeating(arr,size) :
         else :
             count[arr[i]] = count[arr[i]] + 1
 
-arr = [100, 2, 4, 300, 100]
+arr = [0, 2, 4, 1, 1]
 arr_size = len(arr)
 printRepeating(arr, arr_size)

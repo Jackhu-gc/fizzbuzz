@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82d5a5dd-ae99-42ea-9a94-1dfc4efbac0d" name="Default Changelist" comment="" />
+    <list default="true" id="82d5a5dd-ae99-42ea-9a94-1dfc4efbac0d" name="Default Changelist" comment="nothings changed">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1YYnPgeNC6J29OVnyjrfjPRQwHU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -29,7 +37,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="fizbuz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -71,13 +79,30 @@
       <option name="presentableId" value="Default" />
       <updated>1583128372809</updated>
       <workItem from="1583128377870" duration="6473000" />
+      <workItem from="1583158668010" duration="468000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nothings changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="nothings changed" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-1669" y="318" key="CommitChangelistDialog2" timestamp="1583159141645">
+      <screen x="-2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="-1669" y="318" key="CommitChangelistDialog2/0.0.1440.900/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1583159141645" />
+    <state x="-2460" y="99" width="2360" height="1240" key="DiffContextDialog" timestamp="1583159238013">
+      <screen x="-2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="-2460" y="99" width="2360" height="1240" key="DiffContextDialog/0.23.1440.877/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1583159238013" />
+    <state x="-1409" y="620" key="Github.ShareDialog" timestamp="1583159340185">
+      <screen x="-2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="-1409" y="620" key="Github.ShareDialog/0.0.1440.900/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1583159340185" />
     <state width="1272" height="245" key="GridCell.Tab.0.bottom" timestamp="1583157961467">
       <screen x="-2560" y="0" width="2560" height="1440" />
     </state>
@@ -102,10 +127,23 @@
     <state width="1272" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1583157961466" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583129762933" />
     <state width="1272" height="245" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1583150001426" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1583128673632">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="-2167" y="142" key="SettingsEditor" timestamp="1583159218112">
+      <screen x="-2560" y="0" width="2560" height="1440" />
     </state>
+    <state x="-2167" y="142" key="SettingsEditor/0.0.1440.900/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1583159218112" />
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583128673632" />
+    <state x="-1680" y="460" key="Vcs.Push.Dialog.v2" timestamp="1583159080124">
+      <screen x="-2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="-1680" y="460" key="Vcs.Push.Dialog.v2/0.0.1440.900/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1583159080124" />
+    <state x="-1587" y="552" key="com.intellij.ide.util.TipDialog" timestamp="1583158669393">
+      <screen x="-2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="-1587" y="552" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1583158669393" />
+    <state x="-1475" y="644" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583159417458">
+      <screen x="-2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="-1475" y="644" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1583159417458" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fizbuz$fizbuz.coverage" NAME="fizbuz Coverage Results" MODIFIED="1583157961456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
